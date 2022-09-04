@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParsingSql", "ParsingSql\ParsingSql.csproj", "{856C8EAD-11D8-43CC-9FA5-E869CBB2A3D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParsingSqlTest", "ParsingSqlTest\ParsingSqlTest.csproj", "{F375E5D2-697E-45C1-9014-58847BDF6A6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{856C8EAD-11D8-43CC-9FA5-E869CBB2A3D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{856C8EAD-11D8-43CC-9FA5-E869CBB2A3D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{856C8EAD-11D8-43CC-9FA5-E869CBB2A3D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{856C8EAD-11D8-43CC-9FA5-E869CBB2A3D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F375E5D2-697E-45C1-9014-58847BDF6A6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F375E5D2-697E-45C1-9014-58847BDF6A6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F375E5D2-697E-45C1-9014-58847BDF6A6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F375E5D2-697E-45C1-9014-58847BDF6A6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

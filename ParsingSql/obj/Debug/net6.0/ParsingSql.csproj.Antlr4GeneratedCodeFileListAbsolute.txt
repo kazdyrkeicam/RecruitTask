@@ -1,0 +1,6 @@
+/Users/hello.maciek/Documents/__rider/sql_parser/RecruitTask/ParsingSql/obj/Debug/net6.0/SqlLexer.cs
+/Users/hello.maciek/Documents/__rider/sql_parser/RecruitTask/ParsingSql/obj/Debug/net6.0/SqlParser.cs
+/Users/hello.maciek/Documents/__rider/sql_parser/RecruitTask/ParsingSql/obj/Debug/net6.0/SqlListener.cs
+/Users/hello.maciek/Documents/__rider/sql_parser/RecruitTask/ParsingSql/obj/Debug/net6.0/SqlBaseListener.cs
+/Users/hello.maciek/Documents/__rider/sql_parser/RecruitTask/ParsingSql/obj/Debug/net6.0/SqlVisitor.cs
+/Users/hello.maciek/Documents/__rider/sql_parser/RecruitTask/ParsingSql/obj/Debug/net6.0/SqlBaseVisitor.cs

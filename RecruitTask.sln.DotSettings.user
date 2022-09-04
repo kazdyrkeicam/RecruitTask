@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=48c40ee8_002Dde18_002D46c3_002D96e8_002D425ee90f1c06/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::F375E5D2-697E-45C1-9014-58847BDF6A6F::net6.0::ParsingSqlTest.Tests.NoJoinClause_SimpleSelectFrom&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::F375E5D2-697E-45C1-9014-58847BDF6A6F::net6.0::ParsingSqlTest.Tests.JoinClause_SimpleSelectFrom&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::F375E5D2-697E-45C1-9014-58847BDF6A6F::net6.0::ParsingSqlTest.Tests.JoinClause_ComplexSelectFrom&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::F375E5D2-697E-45C1-9014-58847BDF6A6F::net6.0::ParsingSqlTest.Tests.InnerJoinClause_SimpleSelectFrom&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::F375E5D2-697E-45C1-9014-58847BDF6A6F::net6.0::ParsingSqlTest.Tests.XXX&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
