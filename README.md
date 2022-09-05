@@ -14,7 +14,7 @@ Program główny nie zawiera kodu. Działanie kodu prezentują testy jednostowe
 
 - Folder `Antlr` zawiera plik z gramatyką. Plik jest kopią:
 `https://github.com/sirensolutions/antlr4-javascript-sql/blob/master/grammars/sql/SQL.g4`
-<br />
+
 - Folder `Tools` zawiera klase statyczną, której metoda 
 zwraca tablice stringów o następującej budowie:
 ```
